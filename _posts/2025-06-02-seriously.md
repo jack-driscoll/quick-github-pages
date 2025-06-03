@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Realistically now"
-# When is the following generated?
+title: "The Plateaus: We're the Nothing that dreams of being Something."
 date: 2025-06-02 14:40:11
 categories: intro bio
 tags: bio info intro
 ---
 
-# Welcome to My Biography
+# Welcome to My Biography and MarkDown (.md) X-TRAVA-GANZA
 
 ## 🚧 Under Construction — But Very Much Alive
+
+DONATE AT https://linktr.ee/fitztwombly (yes, this is still me - go to KO-FI)
+
+Check out [The Plateaus](https://theplateaus.neocities.org), my art project.
+
+***PLEASE DO NOT CONTACT ME ASKING HOW TO USE THIS FILE, IT EXPLAINS ITSEF***
 
 As of **2025-06-02**, this site is under **active development**. I’ve recently launched several new web projects, and this one—**jackd.ethertech.org**—is my personal hub for biography, skills, and select work history.
 
