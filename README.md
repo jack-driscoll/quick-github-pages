@@ -12,7 +12,9 @@ almost everything.
 
 ## quick-github-pages.zip
 
-This file has all the files you really *need*.
+This file has all the files you really *need* in ***9KB***
+
+That's ***ALL YOU NEED TO GET STARTED WITH GITHUB PAGES***
 
 ### _posts
 
