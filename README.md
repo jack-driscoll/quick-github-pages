@@ -12,7 +12,9 @@ almost everything.
 
 - You should [learn how to use markdown](https://www.markdownguide.org/), which is the default **language** the files are written in.  It's pretty easy, you may even use some of the shorthand already!
 
-- Once you have modified the files `_config.yml`, and `index.md` (I would also suggest changing the files in `_posts`, `about.md` and `page.md`) re-upload the files to your github repo [as in this introductory hello world example](https://docs.github.com/en/get-started/start-your-journey/hello-world) or by uploading the individual files and folder.  All you *really* need is `index.md` and `_config.yml`, though.  Honest.  (In short, though, once you've got your credentials, usually after you've `git clone`-d the directory, you go into it, `git init`, then `git add . && git commit -m "comment on your commit" && git push origin main`  will do everything (add the files, "commit" them, upload them to github).
+- Once you have modified the files `_config.yml`, and `index.md` (I would also suggest changing the files in `_posts`, `about.md` and `page.md`) re-upload the files to your github repo [as in this introductory hello world example](https://docs.github.com/en/get-started/start-your-journey/hello-world) or by uploading the individual files and folder.  All you *really* need is `index.md` and `_config.yml`, though.  Honest.
+
+- In short, though, once you've got your credentials, usually after you've `git clone`-d the directory, you go into it, `git init`, then `git add . && git commit -m "comment on your commit" && git push origin main`  will do everything (add the files, "commit" them, upload them to github). (unless you uploaded them by hand - remember, all you really need is `index.md` and `_config.yml`.
 
 ## quick-github-pages.zip
 
