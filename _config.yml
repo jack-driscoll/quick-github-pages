@@ -1,53 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Welcome to GitHub Pages!  This file has been simplified to the bare essentials.
 
-title: Replace this with your title
-email: Replace this with your email
-description: >- # this means to ignore newlines until "baseurl:"
+title: Replace this with your title # this is the part at the top
+email: Replace this with your email # this is your email address
+description: >- # this means to ignore newlines until "baseurl:" (ignore this)
   Replace this with a description, which will be shown at the bottom
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "Replace this with https://yourname.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog (don't touch this)
+url: "Replace this with https://yourname.github.io" # do as it says
 #twitter_username: jekyllrb
-github_username:  Replace this with your username
+github_username:  Replace this with your github username
 
-# Build settings
+# Build settings (ignore this unless you're changing the theme)
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
